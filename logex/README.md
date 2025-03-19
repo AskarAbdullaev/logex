@@ -78,4 +78,4 @@ More datailed explanation is provided in the notebook "formal_models.ipynb".
 ## Authors
 
 Askar Abdullaev 
-(https://github.com/AskarAbdullaev/)
+([https://github.com/AskarAbdullaev/](https://github.com/AskarAbdullaev/logex/))
